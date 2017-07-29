@@ -1,0 +1,5 @@
+outputBasePath=/Folder/To/Write/Processed/Files
+inputBasePath=/Folder/With/Trip/Sample/Directories
+tripCSVPath=/CSV/File/With/TripData.csv
+startDate=00000000
+endDate=99999999
